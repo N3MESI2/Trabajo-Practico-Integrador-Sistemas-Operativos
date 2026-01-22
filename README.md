@@ -118,5 +118,7 @@ La simulación se ejecuta dentro de un único proceso Java; por lo tanto:
 
 
 9. Soporte
-
+ 
 Si se abre en Windows y no reconoce los scripts Bash, usar WSL (Ubuntu).
+
+![050cef53-b940-4eb2-8fcc-a4f46279d077](https://github.com/user-attachments/assets/7d70ccc2-37e2-448b-abfe-8277c0343d0d)
